@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agroic</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_description_start_icon">email</string>
+    <string name="SignIn">Signin</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="Dont_have_an_account">Don\'t have an account?</string>
+    <string name="Login">Login</string>
+</resources>
